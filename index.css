@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+}
+
+img {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}
+
+h3 {
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bolder;
+
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1em;
+  font-weight: lighter;
+  list-style-type: none;
+  margin: 0px;
+}
+
+.profile {
+  display: inline-block;
+  margin: 100px;
+}
